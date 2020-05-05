@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/shadiex1/Bloogin/issues"
   },
-  "homepage": "https://shadiex1.github.io/Bloogin#readme",
+  "homepage": "https://shadiex1.github.io/Bloogin",
   "dependencies": {},
   "devDependencies": {
     "gh-pages": "^2.2.0"
